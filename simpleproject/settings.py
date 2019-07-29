@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'simpleapp',
     'corsheaders',
+    'drf_yasg',
+    
 
     'django.contrib.admin',
     'django.contrib.auth',

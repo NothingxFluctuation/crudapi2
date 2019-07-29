@@ -21,4 +21,5 @@ class SimpleModel(models.Model):
 
 
     def __str__(self):
-        return self.name
+        nm: str = self.name
+        return nm
